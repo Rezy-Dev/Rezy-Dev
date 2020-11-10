@@ -1,8 +1,5 @@
 ##Hello!! - Namaste!! - Hola!!
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my own Portfolio Website.
 - 🌱 I’m currently learning Ethical Hacking, JavaScript, Python.
 - 💬 Ask me anything about Tech Related Stuffs.
