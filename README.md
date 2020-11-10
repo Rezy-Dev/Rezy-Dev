@@ -3,25 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rezy-Dev&label=Views&color=blue&style=plastic" alt="Rezy-Dev" /> </p>
 
 <a href="https://twitter.com/imthepk">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/imthepk">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="RezyDev's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/Rezy-Dev">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/imthepk">
-  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/codepur_ka_superhero/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/imthepk/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="RezyDev's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.youtube.com/mtechviral/">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="RezyDev's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
@@ -39,7 +27,7 @@
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub Rezy-Dev](https://img.shields.io/github/followers/Rezy-Dev?label=follow&style=social)](https://github.com/Rezy-Dev)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-RezyDev.live-2648ff?style=flat-square&logo=google-chrome)](https://RezyDev.live/)
 
 
 **Languages and Tools:**  
@@ -55,7 +43,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezy-Dev&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Rezy-Dev">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rezy-Dev&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rezy-Dev&show_icons=true&theme=light&line_height=27" alt="RezyDev's github stats"/>
 </a>
 <a href="https://github.com/Rezy-Dev/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rezy-Dev&repo=FlutterExampleApps&theme=light" />
@@ -70,3 +58,4 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
