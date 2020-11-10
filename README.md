@@ -42,13 +42,6 @@
 <a href="https://github.com/Rezy-Dev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rezy-Dev&show_icons=true&theme=light&line_height=27" alt="RezyDev's github stats"/>
 </a>
-<a href="https://github.com/Rezy-Dev/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rezy-Dev&repo=FlutterExampleApps&theme=light" />
-
-</a>
-<a href="https://github.com/Rezy-Dev/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rezy-Dev&repo=VelocityX&theme=light" />
-</a>
 
 <div align="center">
 
