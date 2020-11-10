@@ -2,20 +2,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rezy-Dev&label=Views&color=blue&style=plastic" alt="Rezy-Dev" /> </p>
 
-<a href="https://twitter.com/imthepk">
+<a href="https://twitter.com/Rezy_Dev">
   <img align="left" alt="RezyDev's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/Rezy-Dev">
   <img align="left" alt="RezyDev's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.youtube.com/mtechviral/">
+<a href="https://www.youtube.com/channel/UC9RVpNiXJKomc4VWPEd3SNg">
   <img align="left" alt="RezyDev's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
 <br/>
-
-
 
 - 🔭 I’m currently working on my own Portfolio Website.
 - 🌱 I’m currently learning Ethical Hacking, JavaScript, Python.
@@ -24,7 +22,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend my whole day just googling about tech stuffs.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
+[![Twitter: RezyDev](https://img.shields.io/twitter/follow/rezy_dev?style=social)](https://twitter.com/Rezy_Dev)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub Rezy-Dev](https://img.shields.io/github/followers/Rezy-Dev?label=follow&style=social)](https://github.com/Rezy-Dev)
 [![website](https://img.shields.io/badge/PortfolioWebsite-RezyDev.live-2648ff?style=flat-square&logo=google-chrome)](https://RezyDev.live/)
