@@ -18,13 +18,13 @@
 - 🔭 I’m currently working on my own Portfolio Website.
 - 🌱 I’m currently learning Ethical Hacking, JavaScript, Python.
 - 💬 Ask me anything about Tech Related Stuffs.
-- 📫 How to reach me: contact@rezydev.tk
+- 📫 How to reach me: contact@rezydev.me
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend my whole day just googling about tech stuffs.
 
 [![Twitter: RezyDev](https://img.shields.io/twitter/follow/Rezy_Dev?style=social)](https://twitter.com/Rezy_Dev)
 [![GitHub Rezy-Dev](https://img.shields.io/github/followers/Rezy-Dev?label=follow&style=social)](https://github.com/Rezy-Dev)
-[![website](https://img.shields.io/badge/PortfolioWebsite-RezyDev.ml-2648ff?style=flat-square&logo=google-chrome)](https://RezyDev.ml/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-RezyDev.ml-2648ff?style=flat-square&logo=google-chrome)](https://RezyDev.me/)
 
 
 **Languages and Tools:**  
