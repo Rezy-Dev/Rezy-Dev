@@ -24,7 +24,7 @@
 
 [![Twitter: RezyDev](https://img.shields.io/twitter/follow/Rezy_Dev?style=social)](https://twitter.com/Rezy_Dev)
 [![GitHub Rezy-Dev](https://img.shields.io/github/followers/Rezy-Dev?label=follow&style=social)](https://github.com/Rezy-Dev)
-[![website](https://img.shields.io/badge/PortfolioWebsite-RezyDev.ml-2648ff?style=flat-square&logo=google-chrome)](https://RezyDev.me/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-RezyDev.me-2648ff?style=flat-square&logo=google-chrome)](https://RezyDev.me/)
 
 
 **Languages and Tools:**  
