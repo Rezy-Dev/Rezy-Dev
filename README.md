@@ -8,7 +8,7 @@
 <a href="https://github.com/Rezy-Dev">
   <img align="left" alt="RezyDev's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UC9RVpNiXJKomc4VWPEd3SNg">
+<a href="https://www.youtube.com/channel/UC8jjhjLN_WiEET_xJmFFjRg">
   <img align="left" alt="RezyDev's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
