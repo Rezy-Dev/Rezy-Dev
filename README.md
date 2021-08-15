@@ -21,7 +21,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://commons.wikimedia.org/wiki/File:Parrot_Logo.png#/media/File:Parrot_Logo.png"></code>
+<code><img height="20" src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T6A2PA4289PT17X198Y43D132138790FS5589/views/1,width=650,height=650,appearanceId=2,backgroundColor=cef9f9.jpg"></code>
 <code><img height="20" src="https://www.linuxscrew.com/wp-content/uploads/2020/07/python-logo-768x767.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/500px-Visual_Studio_Code_1.18_icon.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
