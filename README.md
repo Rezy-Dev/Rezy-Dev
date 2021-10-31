@@ -1,8 +1,8 @@
-## Hola, I'm [Raunak Neupane!](https://www.facebook.com/raunakneupane/) 👋
+## Hola, I'm [Raunak Neupane!](https://www.facebook.com/rezyraunak/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rezy-Dev&label=Views&color=blue&style=plastic" alt="Rezy-Dev" /> </p>
 
-<a href="https://www.facebook.com/raunakneupane/">
+<a href="https://www.facebook.com/rezyraunak/">
   <img align="left" alt="Twitter" width="22px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19750.png" />
 </a>
 <a href="https://github.com/Rezy-Dev">
@@ -15,7 +15,7 @@
 - 🔭 I’m a student.
 - 🌱 I’m currently learning Ethical Hacking, JavaScript, Python.
 - 💬 Ask me anything about Tech Related Stuffs.
-- 📫 How to reach me: raunak.neupane@gmail.com
+- 📫 How to reach me: contact@raunak-neupane.com.np
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend my whole day just googling about tech stuffs.
 
