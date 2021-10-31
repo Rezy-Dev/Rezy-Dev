@@ -17,7 +17,7 @@
 - 💬 Ask me anything about Tech Related Stuffs.
 - 📫 How to reach me: contact@raunak-neupane.com.np
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend my whole day just googling about tech stuffs.
+- ⚡ Fun fact: I spend my whole day just googling about tech stuff.
 
 **Languages and Tools:**  
 
