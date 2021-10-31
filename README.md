@@ -13,7 +13,7 @@
 <br/>
 
 - 🔭 I’m a student.
-- 🌱 I’m currently learning Ethical Hacking, JavaScript, Python.
+- 🌱 I’m currently learning JavaScript & Python.
 - 💬 Ask me anything about Tech Related Stuffs.
 - 📫 How to reach me: contact@raunak-neupane.com.np
 - 😄 Pronouns: He/His
