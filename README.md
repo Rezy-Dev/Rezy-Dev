@@ -14,8 +14,8 @@
 
 - 🔭 I’m a student.
 - 🌱 I’m currently learning JavaScript & Python.
-- 💬 Ask me anything about Tech Related Stuffs.
-- 📫 How to reach me: contact@raunak-neupane.com.np
+- 💬 Ask me anything about Tech-Related Stuffs.
+- 📫 How to reach me: info@raunak-neupane.com.np
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend my whole day just googling about tech stuff.
 
