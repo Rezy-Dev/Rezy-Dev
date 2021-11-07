@@ -1,8 +1,8 @@
-## Hola, I'm [Raunak Neupane!](https://www.facebook.com/rezyraunak/) 👋
+## Hola, I'm [Raunak Neupane!](https://bit.ly/raunak-facebook-public) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rezy-Dev&label=Views&color=blue&style=plastic" alt="Rezy-Dev" /> </p>
 
-<a href="https://www.facebook.com/rezyraunak/">
+<a href="https://bit.ly/raunak-facebook-public">
   <img align="left" alt="Twitter" width="22px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19750.png" />
 </a>
 <a href="https://github.com/Rezy-Dev">
