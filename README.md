@@ -1,12 +1,12 @@
-## Hola, I'm [Raunak Neupane!](https://bit.ly/raunak-facebook-public) 👋
+## Namaste, I'm [Raunak Neupane!](https://www.instagram.com/rezydev/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rezy-Dev&label=Views&color=blue&style=plastic" alt="Rezy-Dev" /> </p>
 
 <a href="https://bit.ly/raunak-facebook-public">
-  <img align="left" alt="Twitter" width="22px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19750.png" />
+  <img align="left" alt="Facebook" width="22px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19750.png" />
 </a>
-<a href="https://github.com/Rezy-Dev">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://www.instagram.com/rezydev/">
+  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 </a>
 
 <br/>
