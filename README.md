@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rezydev" target="blank"><img src="https://img.shields.io/twitter/follow/rezydev?logo=twitter&style=for-the-badge" alt="rezydev" /></a> </p>
 
-<img aligh = "center" alt="coding gif" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img aligh = "left" alt="coding gif" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🔭 I’m currently working on **Personal Flutter Project**
 
