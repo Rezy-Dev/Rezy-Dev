@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raunak Neupane (Rezy Dev).</h1>
-<h3 align="center">A passionate Graphic Designer and Python Programmer from Nepal.</h3>
+<h3 align="center">A passionate Graphic Designer and Programmer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rezy-dev" /> </p>
 
