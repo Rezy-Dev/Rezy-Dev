@@ -7,7 +7,7 @@
 
 <img aligh = "left" alt="coding gif" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **Personal Flutter Project**
+- 🔭 I’m currently working on **Gentoo Project**
 
 - 🌱 I’m currently learning **JavaScript & Python**
 
