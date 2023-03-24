@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Gentoo Project**
 
-- 🌱 I’m currently learning **JavaScript & Python**
+- 🌱 I’m currently learning **Ethical Hacking**
 
-- 💬 Ask me about **Intermediate Python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **info@raunak-neupane.com.np**
 
-- ⚡ Fun fact **I want to be lizard**
+- ⚡ Fun fact **Many young programmers, including myself, have started their coding journey through games like Minecraft and Roblox, which have inspired a new generation of game developers and tech enthusiasts!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
