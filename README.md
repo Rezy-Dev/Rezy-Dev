@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raunak Neupane (Rezy Dev).</h1>
 <h3 align="center">Python Programmer with a Passion for Full Stack Web Development and Penetration Testing</h3>
 
+<img aligh = "center" alt="coding gif" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rezy-dev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rezydev" target="blank"><img src="https://img.shields.io/twitter/follow/rezydev?logo=twitter&style=for-the-badge" alt="rezydev" /></a> </p>
