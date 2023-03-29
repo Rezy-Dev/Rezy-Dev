@@ -32,8 +32,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rezydev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rezydev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezy-dev&show_icons=true&locale=en&layout=compact" alt="rezy-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel-sigma-five.app/api/top-langs?username=rezy-dev&show_icons=true&locale=en&layout=compact" alt="rezy-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezy-dev&show_icons=true&locale=en" alt="rezy-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel-sigma-five.app/api?username=rezy-dev&show_icons=true&locale=en" alt="rezy-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezy-dev&" alt="rezy-dev" /></p>
