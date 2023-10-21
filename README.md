@@ -24,4 +24,4 @@
 </p>
 
 <h3 align="left">TryHackMe Stats:</h3>
-<script src="https://tryhackme.com/badge/1789526"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/rezydev.png" alt="TryHackMe">
