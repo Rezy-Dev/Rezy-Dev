@@ -24,4 +24,5 @@
 </p>
 
 <h3 align="left">TryHackMe Stats:</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/rezydev.png" alt="TryHackMe">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/rezydev.png" alt="TryyHackMe">
